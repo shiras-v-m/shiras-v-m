@@ -8,7 +8,7 @@
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:shrias.vm@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:shrias.vm@gmail.com) :)
 - 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any inquiries or opportunities.
 
 **languages and tools:**  
